@@ -1,0 +1,186 @@
+body{
+    overflow-x: hidden;
+}
+.nav img{
+    width: 200px;
+    height: 40px;
+    margin-left: 50px;
+}
+.nav{
+    margin-top: 40px;
+}
+
+a{
+    text-decoration: none;
+    font-size: 25px;
+    color: rgb(52, 194, 52);
+    margin-right: 30px;
+}
+.links{
+    margin-left: 400px;
+    margin-top: -39px;
+}
+.section1{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.section1 img{
+    width: 700px;
+    margin-right: -100px;
+    margin-top: -70px;
+}
+.left{
+    width: 600px;
+}
+.left h1{
+    color: rgb(52, 194, 52);
+    font-size: 50px;
+    font-family: cursive;
+    margin-bottom: 70px;
+}
+
+.left p{
+    font-size: 30px;
+    margin-bottom: 70px;
+}
+.left button{
+    background-color: rgb(25, 233, 150);
+    padding: 15px 35px;
+    font-size: 25px;
+    color: whitesmoke;
+    border: none;
+    border-radius: 25px;
+    margin-left: 100px;
+}
+
+.left button:hover{
+    background-color: rgb(4, 206, 125);
+}
+
+.section2{
+    background-color:  rgb(102, 243, 186);
+    margin-left: -10px;
+    margin-right: -10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    margin-top: -80px;
+}
+.section2 h1{
+    font-size: 40px;
+}
+
+.section2 p{
+    font-size: 20px;
+}
+.cards{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    margin-left: -40px;
+}
+.card{
+    width: 500px;
+    text-align: center;
+    padding: 30px;
+}
+.card img{
+    width: 80px;
+    height: 80px;
+    border-radius: 200px;
+}
+.section3{
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+.section3 h1{
+    margin-left: 50px;
+    color: rgb(52, 194, 52);
+    font-family: cursive;
+}
+
+.Articles{
+    display: flex;
+    justify-content: space-around;
+}
+.Article{
+    margin-right: 20px;
+    text-align: center;
+    width: 300px;
+    background-color:  rgb(102, 243, 186);
+    border-radius: 20px;
+}
+.Article img{
+    height: 200px;
+    width: 300px;
+    border-radius: 20px 20px 0px 0px;
+}
+.Article p{
+    font-size: 20px
+}
+.footer{
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-bottom: -10px;
+    background-color: rgb(25, 233, 150);
+    padding: 30px;
+    padding-left: 100px;
+}
+.D1{
+    margin-top: 40px;
+}
+.D0 img{
+    width: 200px;
+}
+.D1 img{
+    width: 30px;
+    border-radius: 300px;
+    margin-right: 10px;
+}
+.D2{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 100px;
+    margin-right: 20px;
+}
+.D3{
+    margin-top: -110px;
+    margin-left: 100px;
+}
+.D3 a{
+    display: block;
+    color: aliceblue;
+    font-weight: bold;
+    
+}
+.D4 a{
+    display: block;   
+    color: aliceblue;
+    font-weight: bold;
+
+}
+.D4{
+    margin-top: -110px;
+    /* margin-left: -500px; */
+    margin-left: -100px;
+    margin-right: -100px;
+}
+.D5 button{
+    background-color: rgb(22, 173, 232);
+    padding: 15px 35px;
+    font-size: 25px;
+    color: whitesmoke;
+    border: none;
+    border-radius: 25px;
+
+}
+.D5 button:hover{
+    background-color: rgb(6, 136, 188);
+
+}
+.D5{
+    margin-top: -90px;
+    margin-right: -50px;
+
+}
